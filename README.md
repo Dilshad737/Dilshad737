@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
 <h3 align="center">Changing the world one pixel at a time!</h3>
 <p align="center">
