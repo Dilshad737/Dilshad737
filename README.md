@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
-<h1 align="center">Machine Learning Ninja</h1>
+<h2 align="center">Machine Learning Ninja</h2>
 <h3 align="center">Changing the world one pixel at a time!</h3>
 <p align="center">
 <a href="https://twitter.com/Dilshad_Chattha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/Dilshad_Chattha" height="20" width="20" /></a>
