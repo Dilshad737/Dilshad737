@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
 <h2 align="center">Machine Learning Ninja</h2>
 <h3 align="center">Changing the world one pixel at a time!</h3>
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
 <p align="center">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+</p>
+
+<p align="center"> 
 <a href="https://twitter.com/Dilshad_Chattha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/Dilshad_Chattha" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/dilshad-ali-b729b8132/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/dilshad-ali-b729b8132/" height="20" width="20" /></a>
 <a href=" https://www.fiverr.com/ch_dilshad_ali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/fiverr.svg" alt=" https://www.fiverr.com/ch_dilshad_ali" height="50" width="50" /></a>
